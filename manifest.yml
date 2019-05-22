@@ -292,6 +292,7 @@ dependencies:
   - sockets
   - solr
   - sqlsrv
+  - ssh2
   - stomp
   - sysvmsg
   - sysvsem
