@@ -681,6 +681,7 @@ dependencies:
   - soap
   - sockets
   - sodium
+  - ssh2
   - stomp
   - sysvmsg
   - sysvsem
